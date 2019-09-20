@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "name": "arya",
+    "image": "../images/arya.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "bran",
+    "image": "../images/bran.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "brienne",
+    "image": "../images/brienne.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "catelyn",
+    "image": "../images/catelyn.jpeg"
+  },
+  {
+    "id": 5,
+    "name": "cersei",
+    "image": "../images/cersei.jpeg"
+   
+  },
+  {
+    "id": 6,
+    "name": "daenerys",
+    "image": "../images/daenerys.jpeg"
+  },
+  {
+    "id": 7,
+    "name": "jaime",
+    "image": "../images/jaime.jpeg"
+  },
+  {
+    "id": 8,
+    "name": "jaqen",
+    "image": "../images/jaqen.jpeg"
+  },
+  {
+    "id": 9,
+    "name": "joffrey",
+    "image": "../images/joffrey.jpeg"
+  },
+  {
+    "id": 10,
+    "name": "jon",
+    "image": "../images/jon.jpeg"
+  },
+  {
+    "id": 11,
+    "name": "khal",
+    "image": "../images/khal.jpeg"
+  },
+  {
+    "id": 12,
+    "name": "ned",
+    "image": "../images/ned.jpeg"
+  }
+]
