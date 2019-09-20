@@ -54,6 +54,7 @@ class App extends Component {
           <div className="row">
             <div className="col">
               {this.state.images.map(item => {
+                console.log(item)
                 return (
                   <ImageThumbnail
                     key={item.id}
