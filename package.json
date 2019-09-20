@@ -1,5 +1,4 @@
 {
-  "homepage" : "http://myname.github.io/myapp",
   "name": "click-game-app",
   "version": "0.1.0",
   "private": true,
@@ -8,12 +7,8 @@
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-scripts": "3.1.1"
-
   },
-  
   "scripts": {
-    "predeploy": "npm run build",
-     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -28,7 +23,6 @@
       "not dead",
       "not op_mini all"
     ],
-  
     "development": [
       "last 1 chrome version",
       "last 1 firefox version",
